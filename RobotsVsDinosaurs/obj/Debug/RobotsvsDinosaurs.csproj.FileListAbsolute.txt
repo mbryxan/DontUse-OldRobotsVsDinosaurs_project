@@ -1,0 +1,7 @@
+C:\Users\mbale\Desktop\RobotsvsDinosaurs\RobotsvsDinosaurs\obj\Debug\RobotsvsDinosaurs.csprojAssemblyReference.cache
+C:\Users\mbale\Desktop\RobotsvsDinosaurs\RobotsvsDinosaurs\obj\Debug\RobotsvsDinosaurs.csproj.CoreCompileInputs.cache
+C:\Users\mbale\Desktop\RobotsvsDinosaurs\RobotsvsDinosaurs\bin\Debug\RobotsvsDinosaurs.exe.config
+C:\Users\mbale\Desktop\RobotsvsDinosaurs\RobotsvsDinosaurs\bin\Debug\RobotsvsDinosaurs.exe
+C:\Users\mbale\Desktop\RobotsvsDinosaurs\RobotsvsDinosaurs\bin\Debug\RobotsvsDinosaurs.pdb
+C:\Users\mbale\Desktop\RobotsvsDinosaurs\RobotsvsDinosaurs\obj\Debug\RobotsvsDinosaurs.exe
+C:\Users\mbale\Desktop\RobotsvsDinosaurs\RobotsvsDinosaurs\obj\Debug\RobotsvsDinosaurs.pdb
