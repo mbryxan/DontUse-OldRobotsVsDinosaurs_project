@@ -31,22 +31,24 @@ namespace RobotsvsDinosaurs
         //attack a Dinosaur through a method called AttackDinosaur () and causes robotAttackPower to be reduced by 10
 
         {
-            
             robotPowerLevel -= 10;
-            dinosaur.dinosaurHealth -= 6;
+            
             //decrease by 10 the robotAttackPower every time it attacks
-            //extra credit item
+            //extra credit item       
         }
 
-        public void ReceiveHitFromDinosaur()
-        //receives a hit from the Dinosaur through method called ReceiveHitFromDinosaur() and causes robotHealth to be reduced
+        public void ReceiveHitFromDinosaur(Dinosaur dinosaur)
 
         {
-            //robotHealth = robotHealth - (dinosaurEnergy * dinosaurAttackPower);
+
+            //receives a hit from the Dinosaur through method called ReceiveHitFromDinosaur() and causes robotHealth to be reduced 
+
+        }
+            
 
         }
 
 
-
+        // dinosaur.dinosaurHealth -=  10;
     }
 }
